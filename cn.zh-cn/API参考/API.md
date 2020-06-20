@@ -1,4 +1,4 @@
-# API<a name="ZH-CN_TOPIC_0126405306"></a>
+# API<a name="oms_api_0012"></a>
 
 -   **[查询API版本](查询API版本.md)**  
 

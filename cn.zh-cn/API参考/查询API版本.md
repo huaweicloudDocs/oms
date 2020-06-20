@@ -1,4 +1,4 @@
-# 查询API版本<a name="ZH-CN_TOPIC_0126410616"></a>
+# 查询API版本<a name="oms_api_0013"></a>
 
 ## 功能介绍<a name="section21679321"></a>
 
