@@ -8,10 +8,6 @@
 
 GET /v1/\{project\_id\}/objectstorage/version
 
-GET /
-
-GET /\{version\}
-
 参数说明请参见[表1](#table48602288)。
 
 **表 1**  参数说明
