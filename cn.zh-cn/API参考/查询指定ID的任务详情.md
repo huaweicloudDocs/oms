@@ -376,7 +376,7 @@ GET /v2/\{project\_id\}/tasks/\{task\_id\}
     </td>
     <td class="cellrowborder" valign="top" width="18.871887188718873%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0245075032_p875114113442"><a name="zh-cn_topic_0245075032_p875114113442"></a><a name="zh-cn_topic_0245075032_p875114113442"></a>String</p>
     </td>
-    <td class="cellrowborder" valign="top" width="57.64576457645765%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0245075032_p375131118444"><a name="zh-cn_topic_0245075032_p375131118444"></a><a name="zh-cn_topic_0245075032_p375131118444"></a>迁移失败的错误码。</p>
+    <td class="cellrowborder" valign="top" width="57.64576457645765%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0245075032_p375131118444"><a name="zh-cn_topic_0245075032_p375131118444"></a><a name="zh-cn_topic_0245075032_p375131118444"></a>迁移失败的错误码，请参考<a href="迁移失败原因.md">迁移失败原因</a>。</p>
     </td>
     </tr>
     <tr id="zh-cn_topic_0245075032_row77511211144417"><td class="cellrowborder" valign="top" width="23.482348234823483%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0245075032_p12751101118447"><a name="zh-cn_topic_0245075032_p12751101118447"></a><a name="zh-cn_topic_0245075032_p12751101118447"></a>error_msg</p>
@@ -660,5 +660,5 @@ GET /v2/\{project\_id\}/tasks/\{task\_id\}
 
 ## 错误码<a name="zh-cn_topic_0245074948_section968175316304"></a>
 
-状态码请参见[错误码](错误码.md)。
+请参见[错误码](错误码.md)。
 
